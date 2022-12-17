@@ -13,7 +13,7 @@ A simple Pokemon Card Responsive
 => https://www.figma.com/file/n0EeTL0EvRQeFSze7UVqyQ/Background-Image?node-id=0%3A1&t=b33xcNXFin3RfWeL-1
 
 ## Demo
-If you want to see the demo of this proyect deployed, you can visit [Simple Menu](https://idev-html-css-simple-menu.netlify.app/)
+If you want to see the demo of this proyect deployed, you can visit [Pokemon Card](https://idev-pokemon-card-html-sass.netlify.app/)
 
 ## Preview
 #
